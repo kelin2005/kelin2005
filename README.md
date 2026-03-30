@@ -2,7 +2,7 @@
 
 <h2 align="center">Kelin</h2>
 <p align="center">
-informatics (2023) · Internet Of Things · Student
+informatika (2023) · Internet Of Things · Mahasiswa
 </p>
 
 -------
