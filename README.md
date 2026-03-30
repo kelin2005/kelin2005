@@ -11,7 +11,7 @@ informatics (2023) · Internet Of Things · Student
 
 - 🎓 Mahasiswa Informatika di Universitas Udayana Bukit Jimbaran Bali
 - 🤖 Tertarik di bidang AI Development dan IOT ( Internet Of Things)
-- 💻 Lagi belajar Hak AI dan IOT
+- 💻 Lagi belajar hal AI dan IOT
 - 💡 Suka explore hal baru
 
 -------
